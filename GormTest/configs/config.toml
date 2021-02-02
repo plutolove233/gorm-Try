@@ -1,0 +1,7 @@
+[mysql]
+host = "127.0.0.1"
+ports = 3306
+username = "root"
+password = "root"
+DATABASE = "test"
+CHARSET = "utf8"
